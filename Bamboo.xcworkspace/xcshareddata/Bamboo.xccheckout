@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4480998E-7EE1-4382-9DE2-C404CF34C162</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bamboo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC85A0865BC34C4C92712F32107636DA1795D8D0</key>
+		<string>https://stash.addteq.com/scm/ma/bamboo-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bamboo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC85A0865BC34C4C92712F32107636DA1795D8D0</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://stash.addteq.com/scm/ma/bamboo-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC85A0865BC34C4C92712F32107636DA1795D8D0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC85A0865BC34C4C92712F32107636DA1795D8D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bamboo-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
